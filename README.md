@@ -4,22 +4,22 @@ This repository contains the data and scripts that were used in C. albicans micr
 Running the Candida-albicans-microbiome-interaction/src/main.py will generate the results in Candida-albicans-microbiome-interaction/results.
 
 
-Dependencies
+**Dependencies**
 
-COBRAPy 0.17.1
+* COBRAPy 0.17.1
 
-IBM CPLEX 12.8.0.0
+* IBM CPLEX 12.8.0.0
 
 
 
-Python Built-In Modules:
+**Python Built-In Modules:**
 
-glob
+* glob
 
-pickle
+* pickle
 
-math
+* math
 
-copy
+* copy
 
-pandas
+* pandas
