@@ -5,11 +5,11 @@ Running the Candida-albicans-microbiome-interaction/src/main.py will generate th
 
 For instance, one can use the following Terminal command
 
-<python Candida-albicans-microbiome-interaction/src/main.py>
+`<addr>` python Candida-albicans-microbiome-interaction/src/main.py
 
 Or the following in interactive python (e.g. ipython3)
 
-<%run Candida-albicans-microbiome-interaction/src/main.py>
+`<addr>` %run Candida-albicans-microbiome-interaction/src/main.py
 
 **Dependencies**
 
