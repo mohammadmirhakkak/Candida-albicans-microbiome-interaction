@@ -313,7 +313,7 @@ def interaction_type(ccf,bcf,math):
         role = 'neutral'
         
     elif (ccf>ib and ccf<pb) and bcf>pb:
-        int_type = 'Comensalism [o/+]'
+        int_type = 'Commensalism [o/+]'
         role = 'neutral'
         
     elif ccf<ib and (bcf>ib and bcf<pb):
@@ -321,7 +321,7 @@ def interaction_type(ccf,bcf,math):
         role = 'inhibitor'
         
     elif ccf>pb and (bcf>ib and bcf<pb):
-        int_type = 'Comensalism [+/o]'
+        int_type = 'Commensalism [+/o]'
         role = 'promoter'
         
     elif ccf>pb and bcf<ib:
