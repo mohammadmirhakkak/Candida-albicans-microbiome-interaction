@@ -10,11 +10,11 @@ from functions import *
 
 
 #import C. albicans model
-candida_albicans = cobra.io.read_sbml_model('reproduction_materials/models/candida_albicans.xml')
+candida_albicans = cobra.io.read_sbml_model('Candida-albicans-microbiome-interaction/models/candida_albicans.xml')
 
 
 #read metabolite mapping file
-id_mapping = pd.read_csv('reproduction_materials/dat/id_mapping.csv',index_col=0)
+id_mapping = pd.read_csv('Candida-albicans-microbiome-interaction/dat/id_mapping.csv',index_col=0)
 
 
 #make C. albicans model with lumen reactions
@@ -25,33 +25,33 @@ candida_albicans = join_lumen_rxns(candida_albicans,id_mapping,Metabolite,Reacti
 
 #based on C. albicans lumen exchange ids. Also works for joint model lumen exchange reactions
 diet_candida = list()
-diet_candida.append(pickle.load(open("reproduction_materials/dat/calb_western_diet.pckl","rb")))
-diet_candida.append(pickle.load(open("reproduction_materials/dat/calb_high_fiber_diet.pckl","rb")))
-diet_candida.append(pickle.load(open("reproduction_materials/dat/calb_gam_media.pckl","rb")))
+diet_candida.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/calb_western_diet.pckl","rb")))
+diet_candida.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/calb_high_fiber_diet.pckl","rb")))
+diet_candida.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/calb_gam_media.pckl","rb")))
 
 #based on agora lumen exchange ids
 diet_agora = list()
-diet_agora.append(pickle.load(open("reproduction_materials/dat/agora_western_diet.pckl","rb")))
-diet_agora.append(pickle.load(open("reproduction_materials/dat/agora_high_fiber_diet.pckl","rb")))
-diet_agora.append(pickle.load(open("reproduction_materials/dat/agora_gam_media.pckl","rb")))
+diet_agora.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/agora_western_diet.pckl","rb")))
+diet_agora.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/agora_high_fiber_diet.pckl","rb")))
+diet_agora.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/agora_gam_media.pckl","rb")))
 
 #based on carveme lumen exchange ids
 diet_carveme = list()
-diet_carveme.append(pickle.load(open("reproduction_materials/dat/carveme_western_diet.pckl","rb")))
-diet_carveme.append(pickle.load(open("reproduction_materials/dat/carveme_high_fiber_diet.pckl","rb")))
-diet_carveme.append(pickle.load(open("reproduction_materials/dat/carveme_gam_media.pckl","rb")))
+diet_carveme.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/carveme_western_diet.pckl","rb")))
+diet_carveme.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/carveme_high_fiber_diet.pckl","rb")))
+diet_carveme.append(pickle.load(open("Candida-albicans-microbiome-interaction/dat/carveme_gam_media.pckl","rb")))
 
 #import simulated models
-simulated_models = pd.read_csv("reproduction_materials/dat/simulated_models.csv")
+simulated_models = pd.read_csv("Candida-albicans-microbiome-interaction/dat/simulated_models.csv")
 simulated_models = list(simulated_models["Model_ID"])
 
 #Agora models are substituted with CarveMe models if possible
-considered_models = pd.read_csv("reproduction_materials/dat/considered_models.csv")
+considered_models = pd.read_csv("Candida-albicans-microbiome-interaction/dat/considered_models.csv")
 considered_models = list(considered_models["Model_ID"])
 
 #take the model directories
-model_dir_agora = glob.glob('reproduction_materials/models/agora/*.xml')
-model_dir_carveme = glob.glob('reproduction_materials/models/carveme/*.xml')
+model_dir_agora = glob.glob('Candida-albicans-microbiome-interaction/models/agora/*.xml')
+model_dir_carveme = glob.glob('Candida-albicans-microbiome-interaction/models/carveme/*.xml')
 model_dir = model_dir_agora + model_dir_carveme
 
 #create a list of model source
@@ -226,14 +226,14 @@ for i in range(3):
 
 
 #export pFBA-derived flux distribution for the individual models
-individual_flux_distribution[0].to_csv('reproduction_materials/results/pfba_fluxes_indivdual_bacs_western.csv')
-individual_flux_distribution[1].to_csv('reproduction_materials/results/pfba_fluxes_indivdual_bacs_highfiber.csv')
-individual_flux_distribution[2].to_csv('reproduction_materials/results/pfba_fluxes_indivdual_bacs_gam.csv')
+individual_flux_distribution[0].to_csv('Candida-albicans-microbiome-interaction/results/pfba_fluxes_indivdual_bacs_western.csv')
+individual_flux_distribution[1].to_csv('Candida-albicans-microbiome-interaction/results/pfba_fluxes_indivdual_bacs_highfiber.csv')
+individual_flux_distribution[2].to_csv('Candida-albicans-microbiome-interaction/results/pfba_fluxes_indivdual_bacs_gam.csv')
 
 #export pFBA-derived flux distribution for the joined models
-pairwise_flux_distribution[0].to_csv('reproduction_materials/results/pfba_fluxes_pairwise_western.csv')
-pairwise_flux_distribution[1].to_csv('reproduction_materials/results/pfba_fluxes_pairwise_highfiber.csv')
-pairwise_flux_distribution[2].to_csv('reproduction_materials/results/pfba_fluxes_pairwise_gam.csv')
+pairwise_flux_distribution[0].to_csv('Candida-albicans-microbiome-interaction/results/pfba_fluxes_pairwise_western.csv')
+pairwise_flux_distribution[1].to_csv('Candida-albicans-microbiome-interaction/results/pfba_fluxes_pairwise_highfiber.csv')
+pairwise_flux_distribution[2].to_csv('Candida-albicans-microbiome-interaction/results/pfba_fluxes_pairwise_gam.csv')
 
 #export pair wise simulation results
 results_western = pd.DataFrame({'c_albicans_single_growth':gr_calb_indv_all[0],'c_albicans_paired_growth':gr_calb_pairs_all[0],
@@ -254,9 +254,9 @@ results_gam = pd.DataFrame({'c_albicans_single_growth':gr_calb_indv_all[2],'c_al
                             'bacteria_coefficient':coefs_bacs_all[2],'interaction_type':int_types_all[2],
                             'bacteria_interaction_role':roles_all[2]}, index = bacs_model_ids)
 
-results_western.to_csv('reproduction_materials/results/results_western.csv')
-results_highfiber.to_csv('reproduction_materials/results/results_highfiber.csv')
-results_gam.to_csv('reproduction_materials/results/results_gam.csv')
+results_western.to_csv('Candida-albicans-microbiome-interaction/results/results_western.csv')
+results_highfiber.to_csv('Candida-albicans-microbiome-interaction/results/results_highfiber.csv')
+results_gam.to_csv('Candida-albicans-microbiome-interaction/results/results_gam.csv')
 
 
 #interaction distribution
@@ -287,7 +287,7 @@ Media = ['Western diet']*9+['High-fiber diet']*9+['GAM']*9
 
 interaction_distribution = pd.DataFrame({'count':dist,'category':category,'Media':Media})
 
-interaction_distribution.to_csv('reproduction_materials/results/interaction_distribution.csv')
+interaction_distribution.to_csv('Candida-albicans-microbiome-interaction/results/interaction_distribution.csv')
 
 
 
