@@ -13,7 +13,7 @@ Or the following in interactive python (e.g. ipython3)
 
 **Dependencies**
 
-* COBRAPy 0.17.1
+* COBRApy 0.17.1
 
 * IBM CPLEX 12.8.0.0
 
