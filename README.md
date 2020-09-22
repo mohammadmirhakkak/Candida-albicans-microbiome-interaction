@@ -29,4 +29,4 @@ Running the Candida-albicans-microbiome-interaction/src/main.py will generate th
 
 **Reference**
 
-Mohammad H. Mirhakkak, Sascha Schäuble, ..., Morten O.A. Sommer, Gianni Panagiotou. Metabolic modeling predicts specific gut bacteria as key determinants for Candida albicans colonization levels. The ISME Journal. 2020
+Mohammad H. Mirhakkak, Sascha Schäuble, ..., Morten O.A. Sommer, Gianni Panagiotou. Metabolic modeling predicts specific gut bacteria as key determinants for *Candida albicans* colonization levels. The ISME Journal. 2020
