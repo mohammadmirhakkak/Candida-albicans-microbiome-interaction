@@ -161,11 +161,11 @@ for i in range(3):
         #constrain the joint model by using the diet
         joint_model = constrain_model(joint_model,diet_candida[i],"EX_u")
         
-        with open('joint_model_problem.lp', 'w') as out:
+        with open('Candida-albicans-microbiome-interaction/results/joint_model_problem.lp', 'w') as out:
             out.write(str(joint_model.solver))
 
     
-        cpx = cplex.Cplex("joint_model_problem.lp")
+        cpx = cplex.Cplex("Candida-albicans-microbiome-interaction/results/joint_model_problem.lp")
 
 
         cpx,loc_bio_1,loc_bio_2,first_forward_vars,first_backward_vars,second_forward_vars,second_backward_vars = apply_coupling_constraints(cpx,cplex,model_source[ii])
