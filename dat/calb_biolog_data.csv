@@ -2303,387 +2303,387 @@
 2302,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,288.5,1,SC5314
 2303,Methane Sulfonic acid,PM4,H11,sulfur,285.5,1,SC5314
 2304,Tetramethylene Sulfone,PM4,H12,sulfur,250,0,SC5314
-2305,Negative Control,PM1,A01,carbon,74.5,0,
-2306,L-Arabinose,PM1,A02,carbon,115.5,1,
-2307,N-Acetyl-D-Glucosamine,PM1,A03,carbon,163,1,
-2308,D-Saccharic acid,PM1,A04,carbon,62.5,0,
-2309,Succinic acid,PM1,A05,carbon,102.5,1,
-2310,D-Galactose,PM1,A06,carbon,114.5,1,
-2311,L-Aspartic acid,PM1,A07,carbon,65,0,
-2312,L-Proline,PM1,A08,carbon,81.5,0,
-2313,D-Alanine,PM1,A09,carbon,49.5,0,
-2314,D-Trehalose,PM1,A10,carbon,109.5,1,
-2315,D-Mannose,PM1,A11,carbon,114,1,
-2316,Dulcitol,PM1,A12,carbon,85.5,1,
-2317,D-Serine,PM1,B01,carbon,21.5,0,
-2318,D-Sorbitol,PM1,B02,carbon,103.5,1,
-2319,Glycerol,PM1,B03,carbon,56.5,0,
-2320,L-Fucose,PM1,B04,carbon,44,0,
-2321,D-Glucuronic acid,PM1,B05,carbon,51.5,0,
-2322,D-Gluconic acid,PM1,B06,carbon,62.5,0,
-2323,DL-a-Glycerol Phosphate,PM1,B07,carbon,64.5,0,
-2324,D-Xylose,PM1,B08,carbon,136.5,1,
-2325,L-Lactic acid,PM1,B09,carbon,68.5,0,
-2326,Formic acid,PM1,B10,carbon,49,0,
-2327,D-Mannitol,PM1,B11,carbon,114.5,1,
-2328,L-Glutamic acid,PM1,B12,carbon,92.5,1,
-2329,D-Glucose-6-Phosphate,PM1,C01,carbon,63,0,
-2330,D-Galactonic acid-g-Lactone,PM1,C02,carbon,46.5,0,
-2331,DL-Malic acid,PM1,C03,carbon,52,0,
-2332,D-Ribose,PM1,C04,carbon,108.5,1,
-2333,Tween 20,PM1,C05,carbon,32,0,
-2334,L-Rhamnose,PM1,C06,carbon,56.5,0,
-2335,D-Fructose,PM1,C07,carbon,189.5,1,
-2336,Acetic acid,PM1,C08,carbon,72.5,0,
-2337,a-D-Glucose,PM1,C09,carbon,167,1,
-2338,Maltose,PM1,C10,carbon,154.5,1,
-2339,D-Melibiose,PM1,C11,carbon,88.5,1,
-2340,Thymidine,PM1,C12,carbon,92,1,
-2341,L-Asparagine,PM1,D01,carbon,59.5,0,
-2342,D-Aspartic acid,PM1,D02,carbon,34,0,
-2343,D-Glucosaminic acid,PM1,D03,carbon,48.5,0,
-2344,"1,2-Propanediol",PM1,D04,carbon,44.5,0,
-2345,Tween 40,PM1,D05,carbon,55,0,
-2346,a-Ketoglutaric acid,PM1,D06,carbon,87.5,1,
-2347,a-Ketobutyric acid,PM1,D07,carbon,31.5,0,
-2348,a-Methyl-D-Galactoside,PM1,D08,carbon,57.5,0,
-2349,a-D-Lactose,PM1,D09,carbon,61,0,
-2350,Lactulose,PM1,D10,carbon,68.5,0,
-2351,Sucrose,PM1,D11,carbon,148,1,
-2352,Uridine,PM1,D12,carbon,94,1,
-2353,L-Glutamine,PM1,E01,carbon,80,0,
-2354,m-Tartaric acid,PM1,E02,carbon,47.5,0,
-2355,D-Glucose-1-Phosphate,PM1,E03,carbon,47.5,0,
-2356,D-Fructose-6-Phosphate,PM1,E04,carbon,45,0,
-2357,Tween 80,PM1,E05,carbon,57,0,
-2358,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,51.5,0,
-2359,a-Hydroxybutyric acid,PM1,E07,carbon,46.5,0,
-2360,b-Methyl-D-Glucoside,PM1,E08,carbon,58,0,
-2361,Adonitol,PM1,E09,carbon,78.5,0,
-2362,Maltotriose,PM1,E10,carbon,133.5,1,
-2363,2`-Deoxyadenosine,PM1,E11,carbon,76.5,0,
-2364,Adenosine,PM1,E12,carbon,87,1,
-2365,Gly-Asp,PM1,F01,carbon,70,0,
-2366,Citric acid,PM1,F02,carbon,68,0,
-2367,m-Inositol,PM1,F03,carbon,53,0,
-2368,D-Threonine,PM1,F04,carbon,40,0,
-2369,Fumaric acid,PM1,F05,carbon,62.5,0,
-2370,Bromosuccinic acid,PM1,F06,carbon,19.5,0,
-2371,Propionic acid,PM1,F07,carbon,47,0,
-2372,Mucic acid,PM1,F08,carbon,48.5,0,
-2373,Glycolic acid,PM1,F09,carbon,49.5,0,
-2374,Glyoxylic acid,PM1,F10,carbon,16,0,
-2375,D-Cellobiose,PM1,F11,carbon,82.5,1,
-2376,Inosine,PM1,F12,carbon,89,1,
-2377,Gly-Glu,PM1,G01,carbon,69.5,0,
-2378,Tricarballylic acid,PM1,G02,carbon,47,0,
-2379,L-Serine,PM1,G03,carbon,59.5,0,
-2380,L-Threonine,PM1,G04,carbon,55,0,
-2381,L-Alanine,PM1,G05,carbon,64.5,0,
-2382,Ala-Gly,PM1,G06,carbon,56,0,
-2383,Acetoacetic acid,PM1,G07,carbon,75,0,
-2384,N-Acetyl-D-Mannosamine,PM1,G08,carbon,58.5,0,
-2385,Mono-Methylsuccinate,PM1,G09,carbon,69,0,
-2386,Methylpyruvate,PM1,G10,carbon,77.5,0,
-2387,D-Malic acid,PM1,G11,carbon,60,0,
-2388,L-Malic acid,PM1,G12,carbon,84,1,
-2389,Gly-Pro,PM1,H01,carbon,88.5,1,
-2390,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,70.5,0,
-2391,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,63,0,
-2392,Tyramine,PM1,H04,carbon,36,0,
-2393,D-Psicose,PM1,H05,carbon,77,0,
-2394,L-Lyxose,PM1,H06,carbon,133,1,
-2395,Glucuronamide,PM1,H07,carbon,33,0,
-2396,Pyruvic acid,PM1,H08,carbon,130.5,1,
-2397,L-Galactonic acid-g-Lactone,PM1,H09,carbon,59,0,
-2398,D-Galacturonic acid,PM1,H10,carbon,66,0,
-2399,Phenylethylamine,PM1,H11,carbon,63.5,0,
-2400,2-Aminoethanol,PM1,H12,carbon,80,0,
-2401,Negative Control,PM2,A01,carbon,72.5,0,
-2402,Chondroitin Sulfate C,PM2,A02,carbon,56,0,
-2403,a-Cyclodextrin,PM2,A03,carbon,48,0,
-2404,b-Cyclodextrin,PM2,A04,carbon,57,0,
-2405,g-Cyclodextrin,PM2,A05,carbon,44,0,
-2406,Dextrin,PM2,A06,carbon,69.5,0,
-2407,Gelatin,PM2,A07,carbon,56.5,0,
-2408,Glycogen,PM2,A08,carbon,48,0,
-2409,Inulin,PM2,A09,carbon,67.5,0,
-2410,Laminarin,PM2,A10,carbon,41.5,0,
-2411,Mannan,PM2,A11,carbon,40,0,
-2412,Pectin,PM2,A12,carbon,120.5,1,
-2413,N-Acetyl-D-Galactosamine,PM2,B01,carbon,74,0,
-2414,N-Acetyl-Neuraminic acid,PM2,B02,carbon,64,0,
-2415,b-D-Allose,PM2,B03,carbon,40,0,
-2416,Amygdalin,PM2,B04,carbon,44.5,0,
-2417,D-Arabinose,PM2,B05,carbon,75,0,
-2418,D-Arabitol,PM2,B06,carbon,86,1,
-2419,L-Arabitol,PM2,B07,carbon,52,0,
-2420,Arbutin,PM2,B08,carbon,50,0,
-2421,2-Deoxy-D-Ribose,PM2,B09,carbon,100.5,1,
-2422,i-Erythritol,PM2,B10,carbon,56,0,
-2423,D-Fucose,PM2,B11,carbon,35.5,0,
-2424,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,37.5,0,
-2425,Gentiobiose,PM2,C01,carbon,61,0,
-2426,L-Glucose,PM2,C02,carbon,46,0,
-2427,D-Lactitol,PM2,C03,carbon,50.5,0,
-2428,D-Melezitose,PM2,C04,carbon,45,0,
-2429,Maltitol,PM2,C05,carbon,92,1,
-2430,a-Methyl-D-Glucoside,PM2,C06,carbon,112.5,1,
-2431,b-Methyl-D-Galactoside,PM2,C07,carbon,53,0,
-2432,3-Methylglucose,PM2,C08,carbon,30.5,0,
-2433,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,50.5,0,
-2434,a-Methyl-D-Mannoside,PM2,C10,carbon,50.5,0,
-2435,b-Methyl-D-Xyloside,PM2,C11,carbon,53.5,0,
-2436,Palatinose,PM2,C12,carbon,106.5,1,
-2437,D-Raffinose,PM2,D01,carbon,65.5,0,
-2438,Salicin,PM2,D02,carbon,49,0,
-2439,Sedoheptulosan,PM2,D03,carbon,51,0,
-2440,L-Sorbose,PM2,D04,carbon,11,0,
-2441,Stachyose,PM2,D05,carbon,50,0,
-2442,D-Tagatose,PM2,D06,carbon,21,0,
-2443,Turanose,PM2,D07,carbon,128.5,1,
-2444,Xylitol,PM2,D08,carbon,70.5,0,
-2445,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,39.5,0,
-2446,g-Amino-N-Butyric acid,PM2,D10,carbon,81.5,1,
-2447,d-Amino Valeric acid,PM2,D11,carbon,54.5,0,
-2448,Butyric acid,PM2,D12,carbon,71.5,0,
-2449,Capric acid,PM2,E01,carbon,14,0,
-2450,Caproic acid,PM2,E02,carbon,29.5,0,
-2451,Citraconic acid,PM2,E03,carbon,45,0,
-2452,Citramalic acid,PM2,E04,carbon,43,0,
-2453,D-Glucosamine,PM2,E05,carbon,176,1,
-2454,2-Hydroxybenzoic acid,PM2,E06,carbon,56,0,
-2455,4-Hydroxybenzoic acid,PM2,E07,carbon,40.5,0,
-2456,b-Hydroxybutyric acid,PM2,E08,carbon,48.5,0,
-2457,g-Hydroxybutyric acid,PM2,E09,carbon,40,0,
-2458,a-Keto-Valeric acid,PM2,E10,carbon,32,0,
-2459,Itaconic acid,PM2,E11,carbon,57,0,
-2460,5-Keto-D-Gluconic acid,PM2,E12,carbon,117,1,
-2461,D-Lactic acid Methyl Ester,PM2,F01,carbon,73.5,0,
-2462,Malonic acid,PM2,F02,carbon,48.5,0,
-2463,Melibionic acid,PM2,F03,carbon,169,1,
-2464,Oxalic acid,PM2,F04,carbon,45.5,0,
-2465,Oxalomalic acid,PM2,F05,carbon,109.5,1,
-2466,Quinic acid,PM2,F06,carbon,47,0,
-2467,"D-Ribono-1,4-Lactone",PM2,F07,carbon,52.5,0,
-2468,Sebacic acid,PM2,F08,carbon,57.5,0,
-2469,Sorbic acid,PM2,F09,carbon,76,0,
-2470,Succinamic acid,PM2,F10,carbon,52.5,0,
-2471,D-Tartaric acid,PM2,F11,carbon,57.5,0,
-2472,L-Tartaric acid,PM2,F12,carbon,74.5,0,
-2473,Acetamide,PM2,G01,carbon,73,0,
-2474,L-Alaninamide,PM2,G02,carbon,49,0,
-2475,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,49.5,0,
-2476,L-Arginine,PM2,G04,carbon,60.5,0,
-2477,Glycine,PM2,G05,carbon,66.5,0,
-2478,L-Histidine,PM2,G06,carbon,21.5,0,
-2479,L-Homoserine,PM2,G07,carbon,22.5,0,
-2480,Hydroxy-L-Proline,PM2,G08,carbon,59.5,0,
-2481,L-Isoleucine,PM2,G09,carbon,13,0,
-2482,L-Leucine,PM2,G10,carbon,36.5,0,
-2483,L-Lysine,PM2,G11,carbon,53.5,0,
-2484,L-Methionine,PM2,G12,carbon,43.5,0,
-2485,L-Ornithine,PM2,H01,carbon,94.5,1,
-2486,L-Phenylalanine,PM2,H02,carbon,46.5,0,
-2487,L-Pyroglutamic acid,PM2,H03,carbon,70.5,0,
-2488,L-Valine,PM2,H04,carbon,16,0,
-2489,"D,L-Carnitine",PM2,H05,carbon,64,0,
-2490,sec-Butylamine,PM2,H06,carbon,14.5,0,
-2491,"D,L-Octopamine",PM2,H07,carbon,62,0,
-2492,Putrescine,PM2,H08,carbon,68,0,
-2493,Dihydroxyacetone,PM2,H09,carbon,139,1,
-2494,"2,3-Butanediol",PM2,H10,carbon,72.5,0,
-2495,"2,3-Butanedione",PM2,H11,carbon,63.5,0,
-2496,3-Hydroxy-2-buta,PM2,H12,carbon,86.5,1,
-2497,Negative Control,PM3,A01,nitrogen,11,0,
-2498,Ammonia,PM3,A02,nitrogen,11,0,
-2499,Nitrite,PM3,A03,nitrogen,11,0,
-2500,Nitrate,PM3,A04,nitrogen,11,0,
-2501,Urea,PM3,A05,nitrogen,11,0,
-2502,Biuret,PM3,A06,nitrogen,11,0,
-2503,L-Alanine,PM3,A07,nitrogen,11,0,
-2504,L-Arginine,PM3,A08,nitrogen,11,0,
-2505,L-Asparagine,PM3,A09,nitrogen,11,0,
-2506,L-Aspartic acid,PM3,A10,nitrogen,11,0,
-2507,L-Cysteine,PM3,A11,nitrogen,42,1,
-2508,L-Glutamic acid,PM3,A12,nitrogen,12.5,1,
-2509,L-Glutamine,PM3,B01,nitrogen,11,0,
-2510,Glycine,PM3,B02,nitrogen,11,0,
-2511,L-Histidine,PM3,B03,nitrogen,11,0,
-2512,L-Isoleucine,PM3,B04,nitrogen,11,0,
-2513,L-Leucine,PM3,B05,nitrogen,63.5,1,
-2514,L-Lysine,PM3,B06,nitrogen,11,0,
-2515,L-Methionine,PM3,B07,nitrogen,11,0,
-2516,L-Phenylalanine,PM3,B08,nitrogen,11,0,
-2517,L-Proline,PM3,B09,nitrogen,11,0,
-2518,L-Serine,PM3,B10,nitrogen,11,0,
-2519,L-Threonine,PM3,B11,nitrogen,11,0,
-2520,L-Tryptophan,PM3,B12,nitrogen,11,0,
-2521,L-Tyrosine,PM3,C01,nitrogen,13.5,1,
-2522,L-Valine,PM3,C02,nitrogen,11,0,
-2523,D-Alanine,PM3,C03,nitrogen,11,0,
-2524,D-Asparagine,PM3,C04,nitrogen,11,0,
-2525,D-Aspartic acid,PM3,C05,nitrogen,11,0,
-2526,D-Glutamic acid,PM3,C06,nitrogen,11,0,
-2527,D-Lysine,PM3,C07,nitrogen,23.5,1,
-2528,D-Serine,PM3,C08,nitrogen,11,0,
-2529,D-Valine,PM3,C09,nitrogen,11,0,
-2530,L-Citrulline,PM3,C10,nitrogen,11,0,
-2531,L-Homoserine,PM3,C11,nitrogen,11,0,
-2532,L-Ornithine,PM3,C12,nitrogen,13,1,
-2533,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,11,0,
-2534,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,11,0,
-2535,L-Pyroglutamic acid,PM3,D03,nitrogen,11,0,
-2536,Hydroxylamine,PM3,D04,nitrogen,11,0,
-2537,Methylamine,PM3,D05,nitrogen,11,0,
-2538,N-Amylamine,PM3,D06,nitrogen,11,0,
-2539,N-Butylamine,PM3,D07,nitrogen,11,0,
-2540,Ethylamine,PM3,D08,nitrogen,11,0,
-2541,Ethanolamine,PM3,D09,nitrogen,11,0,
-2542,Ethylenediamine,PM3,D10,nitrogen,11,0,
-2543,Putrescine,PM3,D11,nitrogen,11,0,
-2544,Agmatine,PM3,D12,nitrogen,12,0,
-2545,Histamine,PM3,E01,nitrogen,11,0,
-2546,b-Phenylethylamine,PM3,E02,nitrogen,11,0,
-2547,Tyramine,PM3,E03,nitrogen,11,0,
-2548,Acetamide,PM3,E04,nitrogen,11,0,
-2549,Formamide,PM3,E05,nitrogen,11,0,
-2550,Glucuronamide,PM3,E06,nitrogen,11,0,
-2551,DL-Lactamide,PM3,E07,nitrogen,11,0,
-2552,D-Glucosamine,PM3,E08,nitrogen,11,0,
-2553,D-Galactosamine,PM3,E09,nitrogen,11,0,
-2554,D-Mannosamine,PM3,E10,nitrogen,11,0,
-2555,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,11,0,
-2556,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,11,0,
-2557,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,11,0,
-2558,Adenine,PM3,F02,nitrogen,11,0,
-2559,Adenosine,PM3,F03,nitrogen,11,0,
-2560,Cytidine,PM3,F04,nitrogen,11,0,
-2561,Cytosine,PM3,F05,nitrogen,11,0,
-2562,Guanine,PM3,F06,nitrogen,28.5,1,
-2563,Guanosine,PM3,F07,nitrogen,16,1,
-2564,Thymine,PM3,F08,nitrogen,27.5,1,
-2565,Thymidine,PM3,F09,nitrogen,11,0,
-2566,Uracil,PM3,F10,nitrogen,11,0,
-2567,Uridine,PM3,F11,nitrogen,20,1,
-2568,Inosine,PM3,F12,nitrogen,14.5,1,
-2569,Xanthine,PM3,G01,nitrogen,28,1,
-2570,Xanthosine,PM3,G02,nitrogen,11,0,
-2571,Uric acid,PM3,G03,nitrogen,18.5,1,
-2572,Alloxan,PM3,G04,nitrogen,23,1,
-2573,Allantoin,PM3,G05,nitrogen,11,0,
-2574,Parabanic acid,PM3,G06,nitrogen,12.5,1,
-2575,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,11,0,
-2576,g-Amino-N-Butyric acid,PM3,G08,nitrogen,11,0,
-2577,e-Amino-N-Caproic acid,PM3,G09,nitrogen,11,0,
-2578,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,25,1,
-2579,d-Amino-N-Valeric acid,PM3,G11,nitrogen,12.5,1,
-2580,a-Amino-N-Valeric acid,PM3,G12,nitrogen,13.5,1,
-2581,Ala-Asp,PM3,H01,nitrogen,22.5,1,
-2582,Ala-Gln,PM3,H02,nitrogen,14.5,1,
-2583,Ala-Glu,PM3,H03,nitrogen,11,0,
-2584,Ala-Gly,PM3,H04,nitrogen,11,0,
-2585,Ala-His,PM3,H05,nitrogen,11,0,
-2586,Ala-Leu,PM3,H06,nitrogen,91,1,
-2587,Ala-Thr,PM3,H07,nitrogen,11,0,
-2588,Gly-Asn,PM3,H08,nitrogen,11,0,
-2589,Gly-Gln,PM3,H09,nitrogen,11,0,
-2590,Gly-Glu,PM3,H10,nitrogen,11,0,
-2591,Gly-Met,PM3,H11,nitrogen,13,1,
-2592,Met-Ala,PM3,H12,nitrogen,16,1,
-2593,Negative Control,PM4,A01,phosphorus,19,0,
-2594,Phosphate,PM4,A02,phosphorus,11,0,
-2595,Pyrophosphate,PM4,A03,phosphorus,48,1,
-2596,Trimetaphosphate,PM4,A04,phosphorus,11,0,
-2597,Tripolyphosphate,PM4,A05,phosphorus,11,0,
-2598,Triethyl Phosphate,PM4,A06,phosphorus,11,0,
-2599,Hypophosphite,PM4,A07,phosphorus,11,0,
-2600,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,23,1,
-2601,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,11,0,
-2602,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,11,0,
-2603,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,11,0,
-2604,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,12.5,0,
-2605,Thiophosphate,PM4,B01,phosphorus,14,0,
-2606,Dithiophosphate,PM4,B02,phosphorus,11,0,
-2607,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,11,0,
-2608,b-Glycerol Phosphate,PM4,B04,phosphorus,11,0,
-2609,Carbamyl Phosphate,PM4,B05,phosphorus,11,0,
-2610,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,11,0,
-2611,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,11,0,
-2612,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,11,0,
-2613,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,11,0,
-2614,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,11,0,
-2615,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,11,0,
-2616,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,11,0,
-2617,Phosphoenol Pyruvate,PM4,C01,phosphorus,12,0,
-2618,Phospho-Glycolic acid,PM4,C02,phosphorus,11,0,
-2619,D-Glucose-1-Phosphate,PM4,C03,phosphorus,11,0,
-2620,D-Glucose-6-Phosphate,PM4,C04,phosphorus,11,0,
-2621,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,11,0,
-2622,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,11,0,
-2623,6-Phospho-Gluconic acid,PM4,C07,phosphorus,11,0,
-2624,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,11,0,
-2625,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,11,0,
-2626,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,11,0,
-2627,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,11,0,
-2628,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,11,0,
-2629,D-Mannose-1-Phosphate,PM4,D01,phosphorus,11,0,
-2630,D-Mannose-6-Phosphate,PM4,D02,phosphorus,11,0,
-2631,Cysteamine-S-Phosphate,PM4,D03,phosphorus,11,0,
-2632,Phospho-L-Arginine,PM4,D04,phosphorus,11,0,
-2633,O-Phospho-D-Serine,PM4,D05,phosphorus,11,0,
-2634,O-Phospho-L-Serine,PM4,D06,phosphorus,11,0,
-2635,O-Phospho-L-Threonine,PM4,D07,phosphorus,11,0,
-2636,Uridine 2`-Monophosphate,PM4,D08,phosphorus,11,0,
-2637,Uridine 3`-Monophosphate,PM4,D09,phosphorus,11,0,
-2638,Uridine 5`-Monophosphate,PM4,D10,phosphorus,11,0,
-2639,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,11,0,
-2640,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,21.5,1,
-2641,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,11,0,
-2642,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,11,0,
-2643,Phosphocreatine,PM4,E03,phosphorus,11,0,
-2644,Phosphoryl Choline,PM4,E04,phosphorus,11,0,
-2645,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,11,0,
-2646,Phosphono Acetic acid,PM4,E06,phosphorus,11,0,
-2647,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,11,0,
-2648,Methylene Diphosphonic acid,PM4,E08,phosphorus,11.5,0,
-2649,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,11,0,
-2650,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,11,0,
-2651,Inositol Hexaphosphate,PM4,E11,phosphorus,24.5,1,
-2652,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,11,0,
-2653,Negative Control,PM4,F01,sulfur,11,0,
-2654,Sulfate,PM4,F02,sulfur,11,0,
-2655,Thiosulfate,PM4,F03,sulfur,11,0,
-2656,Tetrathionate,PM4,F04,sulfur,11,0,
-2657,Thiophosphate,PM4,F05,sulfur,11,0,
-2658,Dithiophosphate,PM4,F06,sulfur,11,0,
-2659,L-Cysteine,PM4,F07,sulfur,11,0,
-2660,D-Cysteine,PM4,F08,sulfur,11,0,
-2661,Cys-Gly,PM4,F09,sulfur,11,0,
-2662,L-Cysteic acid,PM4,F10,sulfur,11,0,
-2663,Cysteamine,PM4,F11,sulfur,11.5,0,
-2664,L-Cysteine Sulfinic acid,PM4,F12,sulfur,12.5,1,
-2665,N-Acetyl-L-Cysteine,PM4,G01,sulfur,12.5,1,
-2666,S-Methyl-L-Cysteine,PM4,G02,sulfur,11.5,0,
-2667,Cystathionine,PM4,G03,sulfur,11,0,
-2668,Lanthionine,PM4,G04,sulfur,11,0,
-2669,Glutathione,PM4,G05,sulfur,11,0,
-2670,DL-Ethionine,PM4,G06,sulfur,11,0,
-2671,L-Methionine,PM4,G07,sulfur,11,0,
-2672,D-Methionine,PM4,G08,sulfur,11,0,
-2673,Gly-Met,PM4,G09,sulfur,11,0,
-2674,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,11,0,
-2675,L-Methionine Sulfoxide,PM4,G11,sulfur,11.5,0,
-2676,L-Methionine Sulfone,PM4,G12,sulfur,14.5,1,
-2677,L-Djenkolic acid,PM4,H01,sulfur,31.5,1,
-2678,Thiourea,PM4,H02,sulfur,17.5,1,
-2679,1-Thio-b-D-Glucose,PM4,H03,sulfur,11,0,
-2680,DL-Lipoamide,PM4,H04,sulfur,11,0,
-2681,Taurocholic acid,PM4,H05,sulfur,11,0,
-2682,Taurine,PM4,H06,sulfur,12,0,
-2683,Hypotaurine,PM4,H07,sulfur,11,0,
-2684,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,11,0,
-2685,Butane Sulfonic acid,PM4,H09,sulfur,11,0,
-2686,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,11.5,0,
-2687,Methane Sulfonic acid,PM4,H11,sulfur,12,0,
-2688,Tetramethylene Sulfone,PM4,H12,sulfur,20,1,
+2305,Negative Control,PM1,A01,carbon,74.5,0,HIS1_LEU2 + HIS
+2306,L-Arabinose,PM1,A02,carbon,115.5,1,HIS1_LEU2 + HIS
+2307,N-Acetyl-D-Glucosamine,PM1,A03,carbon,163,1,HIS1_LEU2 + HIS
+2308,D-Saccharic acid,PM1,A04,carbon,62.5,0,HIS1_LEU2 + HIS
+2309,Succinic acid,PM1,A05,carbon,102.5,1,HIS1_LEU2 + HIS
+2310,D-Galactose,PM1,A06,carbon,114.5,1,HIS1_LEU2 + HIS
+2311,L-Aspartic acid,PM1,A07,carbon,65,0,HIS1_LEU2 + HIS
+2312,L-Proline,PM1,A08,carbon,81.5,0,HIS1_LEU2 + HIS
+2313,D-Alanine,PM1,A09,carbon,49.5,0,HIS1_LEU2 + HIS
+2314,D-Trehalose,PM1,A10,carbon,109.5,1,HIS1_LEU2 + HIS
+2315,D-Mannose,PM1,A11,carbon,114,1,HIS1_LEU2 + HIS
+2316,Dulcitol,PM1,A12,carbon,85.5,1,HIS1_LEU2 + HIS
+2317,D-Serine,PM1,B01,carbon,21.5,0,HIS1_LEU2 + HIS
+2318,D-Sorbitol,PM1,B02,carbon,103.5,1,HIS1_LEU2 + HIS
+2319,Glycerol,PM1,B03,carbon,56.5,0,HIS1_LEU2 + HIS
+2320,L-Fucose,PM1,B04,carbon,44,0,HIS1_LEU2 + HIS
+2321,D-Glucuronic acid,PM1,B05,carbon,51.5,0,HIS1_LEU2 + HIS
+2322,D-Gluconic acid,PM1,B06,carbon,62.5,0,HIS1_LEU2 + HIS
+2323,DL-a-Glycerol Phosphate,PM1,B07,carbon,64.5,0,HIS1_LEU2 + HIS
+2324,D-Xylose,PM1,B08,carbon,136.5,1,HIS1_LEU2 + HIS
+2325,L-Lactic acid,PM1,B09,carbon,68.5,0,HIS1_LEU2 + HIS
+2326,Formic acid,PM1,B10,carbon,49,0,HIS1_LEU2 + HIS
+2327,D-Mannitol,PM1,B11,carbon,114.5,1,HIS1_LEU2 + HIS
+2328,L-Glutamic acid,PM1,B12,carbon,92.5,1,HIS1_LEU2 + HIS
+2329,D-Glucose-6-Phosphate,PM1,C01,carbon,63,0,HIS1_LEU2 + HIS
+2330,D-Galactonic acid-g-Lactone,PM1,C02,carbon,46.5,0,HIS1_LEU2 + HIS
+2331,DL-Malic acid,PM1,C03,carbon,52,0,HIS1_LEU2 + HIS
+2332,D-Ribose,PM1,C04,carbon,108.5,1,HIS1_LEU2 + HIS
+2333,Tween 20,PM1,C05,carbon,32,0,HIS1_LEU2 + HIS
+2334,L-Rhamnose,PM1,C06,carbon,56.5,0,HIS1_LEU2 + HIS
+2335,D-Fructose,PM1,C07,carbon,189.5,1,HIS1_LEU2 + HIS
+2336,Acetic acid,PM1,C08,carbon,72.5,0,HIS1_LEU2 + HIS
+2337,a-D-Glucose,PM1,C09,carbon,167,1,HIS1_LEU2 + HIS
+2338,Maltose,PM1,C10,carbon,154.5,1,HIS1_LEU2 + HIS
+2339,D-Melibiose,PM1,C11,carbon,88.5,1,HIS1_LEU2 + HIS
+2340,Thymidine,PM1,C12,carbon,92,1,HIS1_LEU2 + HIS
+2341,L-Asparagine,PM1,D01,carbon,59.5,0,HIS1_LEU2 + HIS
+2342,D-Aspartic acid,PM1,D02,carbon,34,0,HIS1_LEU2 + HIS
+2343,D-Glucosaminic acid,PM1,D03,carbon,48.5,0,HIS1_LEU2 + HIS
+2344,"1,2-Propanediol",PM1,D04,carbon,44.5,0,HIS1_LEU2 + HIS
+2345,Tween 40,PM1,D05,carbon,55,0,HIS1_LEU2 + HIS
+2346,a-Ketoglutaric acid,PM1,D06,carbon,87.5,1,HIS1_LEU2 + HIS
+2347,a-Ketobutyric acid,PM1,D07,carbon,31.5,0,HIS1_LEU2 + HIS
+2348,a-Methyl-D-Galactoside,PM1,D08,carbon,57.5,0,HIS1_LEU2 + HIS
+2349,a-D-Lactose,PM1,D09,carbon,61,0,HIS1_LEU2 + HIS
+2350,Lactulose,PM1,D10,carbon,68.5,0,HIS1_LEU2 + HIS
+2351,Sucrose,PM1,D11,carbon,148,1,HIS1_LEU2 + HIS
+2352,Uridine,PM1,D12,carbon,94,1,HIS1_LEU2 + HIS
+2353,L-Glutamine,PM1,E01,carbon,80,0,HIS1_LEU2 + HIS
+2354,m-Tartaric acid,PM1,E02,carbon,47.5,0,HIS1_LEU2 + HIS
+2355,D-Glucose-1-Phosphate,PM1,E03,carbon,47.5,0,HIS1_LEU2 + HIS
+2356,D-Fructose-6-Phosphate,PM1,E04,carbon,45,0,HIS1_LEU2 + HIS
+2357,Tween 80,PM1,E05,carbon,57,0,HIS1_LEU2 + HIS
+2358,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,51.5,0,HIS1_LEU2 + HIS
+2359,a-Hydroxybutyric acid,PM1,E07,carbon,46.5,0,HIS1_LEU2 + HIS
+2360,b-Methyl-D-Glucoside,PM1,E08,carbon,58,0,HIS1_LEU2 + HIS
+2361,Adonitol,PM1,E09,carbon,78.5,0,HIS1_LEU2 + HIS
+2362,Maltotriose,PM1,E10,carbon,133.5,1,HIS1_LEU2 + HIS
+2363,2`-Deoxyadenosine,PM1,E11,carbon,76.5,0,HIS1_LEU2 + HIS
+2364,Adenosine,PM1,E12,carbon,87,1,HIS1_LEU2 + HIS
+2365,Gly-Asp,PM1,F01,carbon,70,0,HIS1_LEU2 + HIS
+2366,Citric acid,PM1,F02,carbon,68,0,HIS1_LEU2 + HIS
+2367,m-Inositol,PM1,F03,carbon,53,0,HIS1_LEU2 + HIS
+2368,D-Threonine,PM1,F04,carbon,40,0,HIS1_LEU2 + HIS
+2369,Fumaric acid,PM1,F05,carbon,62.5,0,HIS1_LEU2 + HIS
+2370,Bromosuccinic acid,PM1,F06,carbon,19.5,0,HIS1_LEU2 + HIS
+2371,Propionic acid,PM1,F07,carbon,47,0,HIS1_LEU2 + HIS
+2372,Mucic acid,PM1,F08,carbon,48.5,0,HIS1_LEU2 + HIS
+2373,Glycolic acid,PM1,F09,carbon,49.5,0,HIS1_LEU2 + HIS
+2374,Glyoxylic acid,PM1,F10,carbon,16,0,HIS1_LEU2 + HIS
+2375,D-Cellobiose,PM1,F11,carbon,82.5,1,HIS1_LEU2 + HIS
+2376,Inosine,PM1,F12,carbon,89,1,HIS1_LEU2 + HIS
+2377,Gly-Glu,PM1,G01,carbon,69.5,0,HIS1_LEU2 + HIS
+2378,Tricarballylic acid,PM1,G02,carbon,47,0,HIS1_LEU2 + HIS
+2379,L-Serine,PM1,G03,carbon,59.5,0,HIS1_LEU2 + HIS
+2380,L-Threonine,PM1,G04,carbon,55,0,HIS1_LEU2 + HIS
+2381,L-Alanine,PM1,G05,carbon,64.5,0,HIS1_LEU2 + HIS
+2382,Ala-Gly,PM1,G06,carbon,56,0,HIS1_LEU2 + HIS
+2383,Acetoacetic acid,PM1,G07,carbon,75,0,HIS1_LEU2 + HIS
+2384,N-Acetyl-D-Mannosamine,PM1,G08,carbon,58.5,0,HIS1_LEU2 + HIS
+2385,Mono-Methylsuccinate,PM1,G09,carbon,69,0,HIS1_LEU2 + HIS
+2386,Methylpyruvate,PM1,G10,carbon,77.5,0,HIS1_LEU2 + HIS
+2387,D-Malic acid,PM1,G11,carbon,60,0,HIS1_LEU2 + HIS
+2388,L-Malic acid,PM1,G12,carbon,84,1,HIS1_LEU2 + HIS
+2389,Gly-Pro,PM1,H01,carbon,88.5,1,HIS1_LEU2 + HIS
+2390,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,70.5,0,HIS1_LEU2 + HIS
+2391,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,63,0,HIS1_LEU2 + HIS
+2392,Tyramine,PM1,H04,carbon,36,0,HIS1_LEU2 + HIS
+2393,D-Psicose,PM1,H05,carbon,77,0,HIS1_LEU2 + HIS
+2394,L-Lyxose,PM1,H06,carbon,133,1,HIS1_LEU2 + HIS
+2395,Glucuronamide,PM1,H07,carbon,33,0,HIS1_LEU2 + HIS
+2396,Pyruvic acid,PM1,H08,carbon,130.5,1,HIS1_LEU2 + HIS
+2397,L-Galactonic acid-g-Lactone,PM1,H09,carbon,59,0,HIS1_LEU2 + HIS
+2398,D-Galacturonic acid,PM1,H10,carbon,66,0,HIS1_LEU2 + HIS
+2399,Phenylethylamine,PM1,H11,carbon,63.5,0,HIS1_LEU2 + HIS
+2400,2-Aminoethanol,PM1,H12,carbon,80,0,HIS1_LEU2 + HIS
+2401,Negative Control,PM2,A01,carbon,72.5,0,HIS1_LEU2 + HIS
+2402,Chondroitin Sulfate C,PM2,A02,carbon,56,0,HIS1_LEU2 + HIS
+2403,a-Cyclodextrin,PM2,A03,carbon,48,0,HIS1_LEU2 + HIS
+2404,b-Cyclodextrin,PM2,A04,carbon,57,0,HIS1_LEU2 + HIS
+2405,g-Cyclodextrin,PM2,A05,carbon,44,0,HIS1_LEU2 + HIS
+2406,Dextrin,PM2,A06,carbon,69.5,0,HIS1_LEU2 + HIS
+2407,Gelatin,PM2,A07,carbon,56.5,0,HIS1_LEU2 + HIS
+2408,Glycogen,PM2,A08,carbon,48,0,HIS1_LEU2 + HIS
+2409,Inulin,PM2,A09,carbon,67.5,0,HIS1_LEU2 + HIS
+2410,Laminarin,PM2,A10,carbon,41.5,0,HIS1_LEU2 + HIS
+2411,Mannan,PM2,A11,carbon,40,0,HIS1_LEU2 + HIS
+2412,Pectin,PM2,A12,carbon,120.5,1,HIS1_LEU2 + HIS
+2413,N-Acetyl-D-Galactosamine,PM2,B01,carbon,74,0,HIS1_LEU2 + HIS
+2414,N-Acetyl-Neuraminic acid,PM2,B02,carbon,64,0,HIS1_LEU2 + HIS
+2415,b-D-Allose,PM2,B03,carbon,40,0,HIS1_LEU2 + HIS
+2416,Amygdalin,PM2,B04,carbon,44.5,0,HIS1_LEU2 + HIS
+2417,D-Arabinose,PM2,B05,carbon,75,0,HIS1_LEU2 + HIS
+2418,D-Arabitol,PM2,B06,carbon,86,1,HIS1_LEU2 + HIS
+2419,L-Arabitol,PM2,B07,carbon,52,0,HIS1_LEU2 + HIS
+2420,Arbutin,PM2,B08,carbon,50,0,HIS1_LEU2 + HIS
+2421,2-Deoxy-D-Ribose,PM2,B09,carbon,100.5,1,HIS1_LEU2 + HIS
+2422,i-Erythritol,PM2,B10,carbon,56,0,HIS1_LEU2 + HIS
+2423,D-Fucose,PM2,B11,carbon,35.5,0,HIS1_LEU2 + HIS
+2424,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,37.5,0,HIS1_LEU2 + HIS
+2425,Gentiobiose,PM2,C01,carbon,61,0,HIS1_LEU2 + HIS
+2426,L-Glucose,PM2,C02,carbon,46,0,HIS1_LEU2 + HIS
+2427,D-Lactitol,PM2,C03,carbon,50.5,0,HIS1_LEU2 + HIS
+2428,D-Melezitose,PM2,C04,carbon,45,0,HIS1_LEU2 + HIS
+2429,Maltitol,PM2,C05,carbon,92,1,HIS1_LEU2 + HIS
+2430,a-Methyl-D-Glucoside,PM2,C06,carbon,112.5,1,HIS1_LEU2 + HIS
+2431,b-Methyl-D-Galactoside,PM2,C07,carbon,53,0,HIS1_LEU2 + HIS
+2432,3-Methylglucose,PM2,C08,carbon,30.5,0,HIS1_LEU2 + HIS
+2433,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,50.5,0,HIS1_LEU2 + HIS
+2434,a-Methyl-D-Mannoside,PM2,C10,carbon,50.5,0,HIS1_LEU2 + HIS
+2435,b-Methyl-D-Xyloside,PM2,C11,carbon,53.5,0,HIS1_LEU2 + HIS
+2436,Palatinose,PM2,C12,carbon,106.5,1,HIS1_LEU2 + HIS
+2437,D-Raffinose,PM2,D01,carbon,65.5,0,HIS1_LEU2 + HIS
+2438,Salicin,PM2,D02,carbon,49,0,HIS1_LEU2 + HIS
+2439,Sedoheptulosan,PM2,D03,carbon,51,0,HIS1_LEU2 + HIS
+2440,L-Sorbose,PM2,D04,carbon,11,0,HIS1_LEU2 + HIS
+2441,Stachyose,PM2,D05,carbon,50,0,HIS1_LEU2 + HIS
+2442,D-Tagatose,PM2,D06,carbon,21,0,HIS1_LEU2 + HIS
+2443,Turanose,PM2,D07,carbon,128.5,1,HIS1_LEU2 + HIS
+2444,Xylitol,PM2,D08,carbon,70.5,0,HIS1_LEU2 + HIS
+2445,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,39.5,0,HIS1_LEU2 + HIS
+2446,g-Amino-N-Butyric acid,PM2,D10,carbon,81.5,1,HIS1_LEU2 + HIS
+2447,d-Amino Valeric acid,PM2,D11,carbon,54.5,0,HIS1_LEU2 + HIS
+2448,Butyric acid,PM2,D12,carbon,71.5,0,HIS1_LEU2 + HIS
+2449,Capric acid,PM2,E01,carbon,14,0,HIS1_LEU2 + HIS
+2450,Caproic acid,PM2,E02,carbon,29.5,0,HIS1_LEU2 + HIS
+2451,Citraconic acid,PM2,E03,carbon,45,0,HIS1_LEU2 + HIS
+2452,Citramalic acid,PM2,E04,carbon,43,0,HIS1_LEU2 + HIS
+2453,D-Glucosamine,PM2,E05,carbon,176,1,HIS1_LEU2 + HIS
+2454,2-Hydroxybenzoic acid,PM2,E06,carbon,56,0,HIS1_LEU2 + HIS
+2455,4-Hydroxybenzoic acid,PM2,E07,carbon,40.5,0,HIS1_LEU2 + HIS
+2456,b-Hydroxybutyric acid,PM2,E08,carbon,48.5,0,HIS1_LEU2 + HIS
+2457,g-Hydroxybutyric acid,PM2,E09,carbon,40,0,HIS1_LEU2 + HIS
+2458,a-Keto-Valeric acid,PM2,E10,carbon,32,0,HIS1_LEU2 + HIS
+2459,Itaconic acid,PM2,E11,carbon,57,0,HIS1_LEU2 + HIS
+2460,5-Keto-D-Gluconic acid,PM2,E12,carbon,117,1,HIS1_LEU2 + HIS
+2461,D-Lactic acid Methyl Ester,PM2,F01,carbon,73.5,0,HIS1_LEU2 + HIS
+2462,Malonic acid,PM2,F02,carbon,48.5,0,HIS1_LEU2 + HIS
+2463,Melibionic acid,PM2,F03,carbon,169,1,HIS1_LEU2 + HIS
+2464,Oxalic acid,PM2,F04,carbon,45.5,0,HIS1_LEU2 + HIS
+2465,Oxalomalic acid,PM2,F05,carbon,109.5,1,HIS1_LEU2 + HIS
+2466,Quinic acid,PM2,F06,carbon,47,0,HIS1_LEU2 + HIS
+2467,"D-Ribono-1,4-Lactone",PM2,F07,carbon,52.5,0,HIS1_LEU2 + HIS
+2468,Sebacic acid,PM2,F08,carbon,57.5,0,HIS1_LEU2 + HIS
+2469,Sorbic acid,PM2,F09,carbon,76,0,HIS1_LEU2 + HIS
+2470,Succinamic acid,PM2,F10,carbon,52.5,0,HIS1_LEU2 + HIS
+2471,D-Tartaric acid,PM2,F11,carbon,57.5,0,HIS1_LEU2 + HIS
+2472,L-Tartaric acid,PM2,F12,carbon,74.5,0,HIS1_LEU2 + HIS
+2473,Acetamide,PM2,G01,carbon,73,0,HIS1_LEU2 + HIS
+2474,L-Alaninamide,PM2,G02,carbon,49,0,HIS1_LEU2 + HIS
+2475,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,49.5,0,HIS1_LEU2 + HIS
+2476,L-Arginine,PM2,G04,carbon,60.5,0,HIS1_LEU2 + HIS
+2477,Glycine,PM2,G05,carbon,66.5,0,HIS1_LEU2 + HIS
+2478,L-Histidine,PM2,G06,carbon,21.5,0,HIS1_LEU2 + HIS
+2479,L-Homoserine,PM2,G07,carbon,22.5,0,HIS1_LEU2 + HIS
+2480,Hydroxy-L-Proline,PM2,G08,carbon,59.5,0,HIS1_LEU2 + HIS
+2481,L-Isoleucine,PM2,G09,carbon,13,0,HIS1_LEU2 + HIS
+2482,L-Leucine,PM2,G10,carbon,36.5,0,HIS1_LEU2 + HIS
+2483,L-Lysine,PM2,G11,carbon,53.5,0,HIS1_LEU2 + HIS
+2484,L-Methionine,PM2,G12,carbon,43.5,0,HIS1_LEU2 + HIS
+2485,L-Ornithine,PM2,H01,carbon,94.5,1,HIS1_LEU2 + HIS
+2486,L-Phenylalanine,PM2,H02,carbon,46.5,0,HIS1_LEU2 + HIS
+2487,L-Pyroglutamic acid,PM2,H03,carbon,70.5,0,HIS1_LEU2 + HIS
+2488,L-Valine,PM2,H04,carbon,16,0,HIS1_LEU2 + HIS
+2489,"D,L-Carnitine",PM2,H05,carbon,64,0,HIS1_LEU2 + HIS
+2490,sec-Butylamine,PM2,H06,carbon,14.5,0,HIS1_LEU2 + HIS
+2491,"D,L-Octopamine",PM2,H07,carbon,62,0,HIS1_LEU2 + HIS
+2492,Putrescine,PM2,H08,carbon,68,0,HIS1_LEU2 + HIS
+2493,Dihydroxyacetone,PM2,H09,carbon,139,1,HIS1_LEU2 + HIS
+2494,"2,3-Butanediol",PM2,H10,carbon,72.5,0,HIS1_LEU2 + HIS
+2495,"2,3-Butanedione",PM2,H11,carbon,63.5,0,HIS1_LEU2 + HIS
+2496,3-Hydroxy-2-buta,PM2,H12,carbon,86.5,1,HIS1_LEU2 + HIS
+2497,Negative Control,PM3,A01,nitrogen,11,0,HIS1_LEU2 + HIS
+2498,Ammonia,PM3,A02,nitrogen,11,0,HIS1_LEU2 + HIS
+2499,Nitrite,PM3,A03,nitrogen,11,0,HIS1_LEU2 + HIS
+2500,Nitrate,PM3,A04,nitrogen,11,0,HIS1_LEU2 + HIS
+2501,Urea,PM3,A05,nitrogen,11,0,HIS1_LEU2 + HIS
+2502,Biuret,PM3,A06,nitrogen,11,0,HIS1_LEU2 + HIS
+2503,L-Alanine,PM3,A07,nitrogen,11,0,HIS1_LEU2 + HIS
+2504,L-Arginine,PM3,A08,nitrogen,11,0,HIS1_LEU2 + HIS
+2505,L-Asparagine,PM3,A09,nitrogen,11,0,HIS1_LEU2 + HIS
+2506,L-Aspartic acid,PM3,A10,nitrogen,11,0,HIS1_LEU2 + HIS
+2507,L-Cysteine,PM3,A11,nitrogen,42,1,HIS1_LEU2 + HIS
+2508,L-Glutamic acid,PM3,A12,nitrogen,12.5,1,HIS1_LEU2 + HIS
+2509,L-Glutamine,PM3,B01,nitrogen,11,0,HIS1_LEU2 + HIS
+2510,Glycine,PM3,B02,nitrogen,11,0,HIS1_LEU2 + HIS
+2511,L-Histidine,PM3,B03,nitrogen,11,0,HIS1_LEU2 + HIS
+2512,L-Isoleucine,PM3,B04,nitrogen,11,0,HIS1_LEU2 + HIS
+2513,L-Leucine,PM3,B05,nitrogen,63.5,1,HIS1_LEU2 + HIS
+2514,L-Lysine,PM3,B06,nitrogen,11,0,HIS1_LEU2 + HIS
+2515,L-Methionine,PM3,B07,nitrogen,11,0,HIS1_LEU2 + HIS
+2516,L-Phenylalanine,PM3,B08,nitrogen,11,0,HIS1_LEU2 + HIS
+2517,L-Proline,PM3,B09,nitrogen,11,0,HIS1_LEU2 + HIS
+2518,L-Serine,PM3,B10,nitrogen,11,0,HIS1_LEU2 + HIS
+2519,L-Threonine,PM3,B11,nitrogen,11,0,HIS1_LEU2 + HIS
+2520,L-Tryptophan,PM3,B12,nitrogen,11,0,HIS1_LEU2 + HIS
+2521,L-Tyrosine,PM3,C01,nitrogen,13.5,1,HIS1_LEU2 + HIS
+2522,L-Valine,PM3,C02,nitrogen,11,0,HIS1_LEU2 + HIS
+2523,D-Alanine,PM3,C03,nitrogen,11,0,HIS1_LEU2 + HIS
+2524,D-Asparagine,PM3,C04,nitrogen,11,0,HIS1_LEU2 + HIS
+2525,D-Aspartic acid,PM3,C05,nitrogen,11,0,HIS1_LEU2 + HIS
+2526,D-Glutamic acid,PM3,C06,nitrogen,11,0,HIS1_LEU2 + HIS
+2527,D-Lysine,PM3,C07,nitrogen,23.5,1,HIS1_LEU2 + HIS
+2528,D-Serine,PM3,C08,nitrogen,11,0,HIS1_LEU2 + HIS
+2529,D-Valine,PM3,C09,nitrogen,11,0,HIS1_LEU2 + HIS
+2530,L-Citrulline,PM3,C10,nitrogen,11,0,HIS1_LEU2 + HIS
+2531,L-Homoserine,PM3,C11,nitrogen,11,0,HIS1_LEU2 + HIS
+2532,L-Ornithine,PM3,C12,nitrogen,13,1,HIS1_LEU2 + HIS
+2533,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,11,0,HIS1_LEU2 + HIS
+2534,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,11,0,HIS1_LEU2 + HIS
+2535,L-Pyroglutamic acid,PM3,D03,nitrogen,11,0,HIS1_LEU2 + HIS
+2536,Hydroxylamine,PM3,D04,nitrogen,11,0,HIS1_LEU2 + HIS
+2537,Methylamine,PM3,D05,nitrogen,11,0,HIS1_LEU2 + HIS
+2538,N-Amylamine,PM3,D06,nitrogen,11,0,HIS1_LEU2 + HIS
+2539,N-Butylamine,PM3,D07,nitrogen,11,0,HIS1_LEU2 + HIS
+2540,Ethylamine,PM3,D08,nitrogen,11,0,HIS1_LEU2 + HIS
+2541,Ethanolamine,PM3,D09,nitrogen,11,0,HIS1_LEU2 + HIS
+2542,Ethylenediamine,PM3,D10,nitrogen,11,0,HIS1_LEU2 + HIS
+2543,Putrescine,PM3,D11,nitrogen,11,0,HIS1_LEU2 + HIS
+2544,Agmatine,PM3,D12,nitrogen,12,0,HIS1_LEU2 + HIS
+2545,Histamine,PM3,E01,nitrogen,11,0,HIS1_LEU2 + HIS
+2546,b-Phenylethylamine,PM3,E02,nitrogen,11,0,HIS1_LEU2 + HIS
+2547,Tyramine,PM3,E03,nitrogen,11,0,HIS1_LEU2 + HIS
+2548,Acetamide,PM3,E04,nitrogen,11,0,HIS1_LEU2 + HIS
+2549,Formamide,PM3,E05,nitrogen,11,0,HIS1_LEU2 + HIS
+2550,Glucuronamide,PM3,E06,nitrogen,11,0,HIS1_LEU2 + HIS
+2551,DL-Lactamide,PM3,E07,nitrogen,11,0,HIS1_LEU2 + HIS
+2552,D-Glucosamine,PM3,E08,nitrogen,11,0,HIS1_LEU2 + HIS
+2553,D-Galactosamine,PM3,E09,nitrogen,11,0,HIS1_LEU2 + HIS
+2554,D-Mannosamine,PM3,E10,nitrogen,11,0,HIS1_LEU2 + HIS
+2555,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,11,0,HIS1_LEU2 + HIS
+2556,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,11,0,HIS1_LEU2 + HIS
+2557,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,11,0,HIS1_LEU2 + HIS
+2558,Adenine,PM3,F02,nitrogen,11,0,HIS1_LEU2 + HIS
+2559,Adenosine,PM3,F03,nitrogen,11,0,HIS1_LEU2 + HIS
+2560,Cytidine,PM3,F04,nitrogen,11,0,HIS1_LEU2 + HIS
+2561,Cytosine,PM3,F05,nitrogen,11,0,HIS1_LEU2 + HIS
+2562,Guanine,PM3,F06,nitrogen,28.5,1,HIS1_LEU2 + HIS
+2563,Guanosine,PM3,F07,nitrogen,16,1,HIS1_LEU2 + HIS
+2564,Thymine,PM3,F08,nitrogen,27.5,1,HIS1_LEU2 + HIS
+2565,Thymidine,PM3,F09,nitrogen,11,0,HIS1_LEU2 + HIS
+2566,Uracil,PM3,F10,nitrogen,11,0,HIS1_LEU2 + HIS
+2567,Uridine,PM3,F11,nitrogen,20,1,HIS1_LEU2 + HIS
+2568,Inosine,PM3,F12,nitrogen,14.5,1,HIS1_LEU2 + HIS
+2569,Xanthine,PM3,G01,nitrogen,28,1,HIS1_LEU2 + HIS
+2570,Xanthosine,PM3,G02,nitrogen,11,0,HIS1_LEU2 + HIS
+2571,Uric acid,PM3,G03,nitrogen,18.5,1,HIS1_LEU2 + HIS
+2572,Alloxan,PM3,G04,nitrogen,23,1,HIS1_LEU2 + HIS
+2573,Allantoin,PM3,G05,nitrogen,11,0,HIS1_LEU2 + HIS
+2574,Parabanic acid,PM3,G06,nitrogen,12.5,1,HIS1_LEU2 + HIS
+2575,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,11,0,HIS1_LEU2 + HIS
+2576,g-Amino-N-Butyric acid,PM3,G08,nitrogen,11,0,HIS1_LEU2 + HIS
+2577,e-Amino-N-Caproic acid,PM3,G09,nitrogen,11,0,HIS1_LEU2 + HIS
+2578,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,25,1,HIS1_LEU2 + HIS
+2579,d-Amino-N-Valeric acid,PM3,G11,nitrogen,12.5,1,HIS1_LEU2 + HIS
+2580,a-Amino-N-Valeric acid,PM3,G12,nitrogen,13.5,1,HIS1_LEU2 + HIS
+2581,Ala-Asp,PM3,H01,nitrogen,22.5,1,HIS1_LEU2 + HIS
+2582,Ala-Gln,PM3,H02,nitrogen,14.5,1,HIS1_LEU2 + HIS
+2583,Ala-Glu,PM3,H03,nitrogen,11,0,HIS1_LEU2 + HIS
+2584,Ala-Gly,PM3,H04,nitrogen,11,0,HIS1_LEU2 + HIS
+2585,Ala-His,PM3,H05,nitrogen,11,0,HIS1_LEU2 + HIS
+2586,Ala-Leu,PM3,H06,nitrogen,91,1,HIS1_LEU2 + HIS
+2587,Ala-Thr,PM3,H07,nitrogen,11,0,HIS1_LEU2 + HIS
+2588,Gly-Asn,PM3,H08,nitrogen,11,0,HIS1_LEU2 + HIS
+2589,Gly-Gln,PM3,H09,nitrogen,11,0,HIS1_LEU2 + HIS
+2590,Gly-Glu,PM3,H10,nitrogen,11,0,HIS1_LEU2 + HIS
+2591,Gly-Met,PM3,H11,nitrogen,13,1,HIS1_LEU2 + HIS
+2592,Met-Ala,PM3,H12,nitrogen,16,1,HIS1_LEU2 + HIS
+2593,Negative Control,PM4,A01,phosphorus,19,0,HIS1_LEU2 + HIS
+2594,Phosphate,PM4,A02,phosphorus,11,0,HIS1_LEU2 + HIS
+2595,Pyrophosphate,PM4,A03,phosphorus,48,1,HIS1_LEU2 + HIS
+2596,Trimetaphosphate,PM4,A04,phosphorus,11,0,HIS1_LEU2 + HIS
+2597,Tripolyphosphate,PM4,A05,phosphorus,11,0,HIS1_LEU2 + HIS
+2598,Triethyl Phosphate,PM4,A06,phosphorus,11,0,HIS1_LEU2 + HIS
+2599,Hypophosphite,PM4,A07,phosphorus,11,0,HIS1_LEU2 + HIS
+2600,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,23,1,HIS1_LEU2 + HIS
+2601,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,11,0,HIS1_LEU2 + HIS
+2602,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,11,0,HIS1_LEU2 + HIS
+2603,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,11,0,HIS1_LEU2 + HIS
+2604,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,12.5,0,HIS1_LEU2 + HIS
+2605,Thiophosphate,PM4,B01,phosphorus,14,0,HIS1_LEU2 + HIS
+2606,Dithiophosphate,PM4,B02,phosphorus,11,0,HIS1_LEU2 + HIS
+2607,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,11,0,HIS1_LEU2 + HIS
+2608,b-Glycerol Phosphate,PM4,B04,phosphorus,11,0,HIS1_LEU2 + HIS
+2609,Carbamyl Phosphate,PM4,B05,phosphorus,11,0,HIS1_LEU2 + HIS
+2610,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,11,0,HIS1_LEU2 + HIS
+2611,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,11,0,HIS1_LEU2 + HIS
+2612,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,11,0,HIS1_LEU2 + HIS
+2613,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,11,0,HIS1_LEU2 + HIS
+2614,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,11,0,HIS1_LEU2 + HIS
+2615,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,11,0,HIS1_LEU2 + HIS
+2616,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,11,0,HIS1_LEU2 + HIS
+2617,Phosphoenol Pyruvate,PM4,C01,phosphorus,12,0,HIS1_LEU2 + HIS
+2618,Phospho-Glycolic acid,PM4,C02,phosphorus,11,0,HIS1_LEU2 + HIS
+2619,D-Glucose-1-Phosphate,PM4,C03,phosphorus,11,0,HIS1_LEU2 + HIS
+2620,D-Glucose-6-Phosphate,PM4,C04,phosphorus,11,0,HIS1_LEU2 + HIS
+2621,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,11,0,HIS1_LEU2 + HIS
+2622,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,11,0,HIS1_LEU2 + HIS
+2623,6-Phospho-Gluconic acid,PM4,C07,phosphorus,11,0,HIS1_LEU2 + HIS
+2624,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,11,0,HIS1_LEU2 + HIS
+2625,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,11,0,HIS1_LEU2 + HIS
+2626,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,11,0,HIS1_LEU2 + HIS
+2627,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,11,0,HIS1_LEU2 + HIS
+2628,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,11,0,HIS1_LEU2 + HIS
+2629,D-Mannose-1-Phosphate,PM4,D01,phosphorus,11,0,HIS1_LEU2 + HIS
+2630,D-Mannose-6-Phosphate,PM4,D02,phosphorus,11,0,HIS1_LEU2 + HIS
+2631,Cysteamine-S-Phosphate,PM4,D03,phosphorus,11,0,HIS1_LEU2 + HIS
+2632,Phospho-L-Arginine,PM4,D04,phosphorus,11,0,HIS1_LEU2 + HIS
+2633,O-Phospho-D-Serine,PM4,D05,phosphorus,11,0,HIS1_LEU2 + HIS
+2634,O-Phospho-L-Serine,PM4,D06,phosphorus,11,0,HIS1_LEU2 + HIS
+2635,O-Phospho-L-Threonine,PM4,D07,phosphorus,11,0,HIS1_LEU2 + HIS
+2636,Uridine 2`-Monophosphate,PM4,D08,phosphorus,11,0,HIS1_LEU2 + HIS
+2637,Uridine 3`-Monophosphate,PM4,D09,phosphorus,11,0,HIS1_LEU2 + HIS
+2638,Uridine 5`-Monophosphate,PM4,D10,phosphorus,11,0,HIS1_LEU2 + HIS
+2639,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,11,0,HIS1_LEU2 + HIS
+2640,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,21.5,1,HIS1_LEU2 + HIS
+2641,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,11,0,HIS1_LEU2 + HIS
+2642,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,11,0,HIS1_LEU2 + HIS
+2643,Phosphocreatine,PM4,E03,phosphorus,11,0,HIS1_LEU2 + HIS
+2644,Phosphoryl Choline,PM4,E04,phosphorus,11,0,HIS1_LEU2 + HIS
+2645,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,11,0,HIS1_LEU2 + HIS
+2646,Phosphono Acetic acid,PM4,E06,phosphorus,11,0,HIS1_LEU2 + HIS
+2647,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,11,0,HIS1_LEU2 + HIS
+2648,Methylene Diphosphonic acid,PM4,E08,phosphorus,11.5,0,HIS1_LEU2 + HIS
+2649,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,11,0,HIS1_LEU2 + HIS
+2650,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,11,0,HIS1_LEU2 + HIS
+2651,Inositol Hexaphosphate,PM4,E11,phosphorus,24.5,1,HIS1_LEU2 + HIS
+2652,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,11,0,HIS1_LEU2 + HIS
+2653,Negative Control,PM4,F01,sulfur,11,0,HIS1_LEU2 + HIS
+2654,Sulfate,PM4,F02,sulfur,11,0,HIS1_LEU2 + HIS
+2655,Thiosulfate,PM4,F03,sulfur,11,0,HIS1_LEU2 + HIS
+2656,Tetrathionate,PM4,F04,sulfur,11,0,HIS1_LEU2 + HIS
+2657,Thiophosphate,PM4,F05,sulfur,11,0,HIS1_LEU2 + HIS
+2658,Dithiophosphate,PM4,F06,sulfur,11,0,HIS1_LEU2 + HIS
+2659,L-Cysteine,PM4,F07,sulfur,11,0,HIS1_LEU2 + HIS
+2660,D-Cysteine,PM4,F08,sulfur,11,0,HIS1_LEU2 + HIS
+2661,Cys-Gly,PM4,F09,sulfur,11,0,HIS1_LEU2 + HIS
+2662,L-Cysteic acid,PM4,F10,sulfur,11,0,HIS1_LEU2 + HIS
+2663,Cysteamine,PM4,F11,sulfur,11.5,0,HIS1_LEU2 + HIS
+2664,L-Cysteine Sulfinic acid,PM4,F12,sulfur,12.5,1,HIS1_LEU2 + HIS
+2665,N-Acetyl-L-Cysteine,PM4,G01,sulfur,12.5,1,HIS1_LEU2 + HIS
+2666,S-Methyl-L-Cysteine,PM4,G02,sulfur,11.5,0,HIS1_LEU2 + HIS
+2667,Cystathionine,PM4,G03,sulfur,11,0,HIS1_LEU2 + HIS
+2668,Lanthionine,PM4,G04,sulfur,11,0,HIS1_LEU2 + HIS
+2669,Glutathione,PM4,G05,sulfur,11,0,HIS1_LEU2 + HIS
+2670,DL-Ethionine,PM4,G06,sulfur,11,0,HIS1_LEU2 + HIS
+2671,L-Methionine,PM4,G07,sulfur,11,0,HIS1_LEU2 + HIS
+2672,D-Methionine,PM4,G08,sulfur,11,0,HIS1_LEU2 + HIS
+2673,Gly-Met,PM4,G09,sulfur,11,0,HIS1_LEU2 + HIS
+2674,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,11,0,HIS1_LEU2 + HIS
+2675,L-Methionine Sulfoxide,PM4,G11,sulfur,11.5,0,HIS1_LEU2 + HIS
+2676,L-Methionine Sulfone,PM4,G12,sulfur,14.5,1,HIS1_LEU2 + HIS
+2677,L-Djenkolic acid,PM4,H01,sulfur,31.5,1,HIS1_LEU2 + HIS
+2678,Thiourea,PM4,H02,sulfur,17.5,1,HIS1_LEU2 + HIS
+2679,1-Thio-b-D-Glucose,PM4,H03,sulfur,11,0,HIS1_LEU2 + HIS
+2680,DL-Lipoamide,PM4,H04,sulfur,11,0,HIS1_LEU2 + HIS
+2681,Taurocholic acid,PM4,H05,sulfur,11,0,HIS1_LEU2 + HIS
+2682,Taurine,PM4,H06,sulfur,12,0,HIS1_LEU2 + HIS
+2683,Hypotaurine,PM4,H07,sulfur,11,0,HIS1_LEU2 + HIS
+2684,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,11,0,HIS1_LEU2 + HIS
+2685,Butane Sulfonic acid,PM4,H09,sulfur,11,0,HIS1_LEU2 + HIS
+2686,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,11.5,0,HIS1_LEU2 + HIS
+2687,Methane Sulfonic acid,PM4,H11,sulfur,12,0,HIS1_LEU2 + HIS
+2688,Tetramethylene Sulfone,PM4,H12,sulfur,20,1,HIS1_LEU2 + HIS
