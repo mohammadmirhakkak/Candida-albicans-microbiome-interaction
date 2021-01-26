@@ -35,4 +35,5 @@ Or the following in interactive python (e.g. ipython3)
 
 
 **Citation**
+
 Mirhakkak, M.H., Schäuble, S., ... , Sommer, M.O.A. , Panagiotou, G. Metabolic modeling predicts specific gut bacteria as key determinants for Candida albicans colonization levels. ISME J (2020). https://doi.org/10.1038/s41396-020-00848-z
