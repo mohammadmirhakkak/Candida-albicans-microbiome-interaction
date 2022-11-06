@@ -36,4 +36,4 @@ Or the following in interactive python (e.g. ipython3)
 
 **Citation**
 
-Mirhakkak, M.H., Schäuble, S., ... , Sommer, M.O.A. , Panagiotou, G. Metabolic modeling predicts specific gut bacteria as key determinants for Candida albicans colonization levels. ISME J (2021). https://doi.org/10.1038/s41396-020-00848-z
+Mirhakkak, M.H., Chen, X., ... , Schäuble, S., Panagiotou, G. A pan-genome resembling genome-scale metabolic model platform of 252 Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. Nature Communications (2023).
